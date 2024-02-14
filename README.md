@@ -7,4 +7,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
-<p>E este é um projeto totalmente responsivo tanto em PC como para mobile.</p>
+<p>E este é um projeto totalmente responsivo tanto em PC
+  <br>
+  <img src="https://github.com/LordRockyfeller/wide-coverage-location/blob/main/img/img%203.png?raw=true"/></p>
+  <p>como para mobile 
+  <br>
+  </p>
+
+
